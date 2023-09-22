@@ -1,0 +1,18 @@
+ .profile{
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+  }
+  .username {
+    font-weight: bold;
+  }
+  em{
+    color: chocolate;
+    font-style: normal;
+  }
+  .coffee{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }

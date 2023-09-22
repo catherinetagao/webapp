@@ -1,0 +1,21 @@
+div{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+/* a{
+  margin: 10px;
+  padding: 10px;
+  font-weight: bold;
+  text-decoration: none;
+} */
+
+a:nth-child(even){
+  background-color: lightcoral;
+}
+
+a:nth-child(odd){
+  background-color: lightblue;
+}
