@@ -34,8 +34,34 @@ body{
     padding-top: 30px;
 }
 
+/* About */
+
 .profile{
     width: 300px;
     height: 300px;
     border-radius: 5px;
+}
+
+.h1_about{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 30px;
+}
+
+.a_name{
+    font-family: 'Poppins', sans-serif;
+}
+
+.age{
+    font-family: 'Poppins', sans-serif;
+}
+
+.sex{
+    font-family: 'Poppins', sans-serif;
+}
+
+.content_about{
+    text-align: center; 
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
 }
