@@ -65,3 +65,27 @@ body{
     padding: 10px;
     font-family: 'Poppins', sans-serif;
 }
+
+/* Navbar */
+
+/* .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0.125em;
+  }  */
+
+.dropdown:hover > .dropdown-menu {
+    display: block;
+    margin-top: 0.125em;
+  } 
+
+  .dropdown .dropdown-menu {
+    display: none;
+  } 
+
+  /* @media screen and (min-width: 769px) {
+    .dropend:hover > .dropdown-menu {
+      position: absolute;
+      top: 0;
+      left: 100%;
+    }
+  } */
